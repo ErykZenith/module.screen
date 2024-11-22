@@ -42,3 +42,4 @@ for i = 1, #EXPORTS do
         SendNUIMessage(r)
     end)
 end
+EXPORTS = nil
