@@ -4,5 +4,5 @@ description "Create By.Eryk Zenith"
 author "Eryk Zenith"
 client_scripts{
     "@module.screen/init.lua",
-    "index.lua",
+    "cl_index.lua",
 }
